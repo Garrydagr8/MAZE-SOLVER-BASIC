@@ -1,0 +1,63 @@
+XIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X     X       X   X       X     X           X             X   X
+XXXXX XXX XXX X XXX X XXX X XXX XXXXXXX XXX XXXXXXXXX XXX X X X
+X   X   X   X X     X X X X X X X       X   X         X   X X X
+X XXXXX XXX X XXXXXXX X X X X X X XXXXXXX XXX X XXXXXXX XXX X X
+X     X     X         X X   X   X     X   X   X X     X   X X X
+X XXX XXXXXXXXXXXXXXXXX XXXXX XXX XXX XXX X X XXX XXX XXX XXX X
+X   X         X     X   X     X     X   X X X X     X   X   X X
+XXXXXXXXXXX X X XXX XXX X XXXXXXXXXXXXX X XXX X XXXXXXX XXX X X
+X           X   X       X X             X   X     X     X     X
+X XXXXXXX XXXXXXX XXXXXXX X XXXXXXXXXXXXXXX XXXXXXX XXXXXXXXXXX
+X X     X X   X     X   X X           X   X       X X         X
+X XXX X X X X XXXXXXX X X X XXXXXXXXX X X XXXXXXX X X XXXXXXX X
+X   X X   X X       X X   X X         X X       X X X   X   X X
+XXX X XXXXX XXXXXXX X XXXXXXX XXXXXXXXX XXX XXXXX X XXX X XXX X
+X   X   X X X       X   X     X   X     X X           X X   X X
+X XXXXX X X X XXXXXXXXX X XXXXX XXX XXXXX XXXXXXXXXXX X X X X X
+X X       X X   X   X   X X       X X       X   X     X X X X X
+X XXXXXXXXX XXX X X X XXX XXXXXXX X XXXXXXX X X XXXXXXX XXX X X
+X             X   X X   X       X X     X   X X             X X
+XXXXXXXXXXXXXXXXXXX XXX XXXXXXX X XXXXX X XXX XXXXXXXXXXXXXXX X
+X               X   X   X       X         X   X     X   X     X 
+X XXXXXXXXXXXXX X X X XXX XXXXXXX XXXXXXXXX XXX XXX XXX X XXX X 
+X X   X       X   X X X X     X X X X     X     X   X   X   X X 
+X X X XXXXX XXXXXXX X X X XXX X X X X XXX XXXXXXX XXX XXXXX XXX 
+X   X X   X       X X X     X X     X X X     X   X       X   X 
+XXXXX X X XXX XXX X X XXXXXXX XXXXXXX X X XXX X XXXXXXXXX XXX X 
+X     X X   X   X   X       X       X X X X   X   X         X X 
+X XXXXX XXX XXX XXXXXXXXXXX XXXXXXX X X X XXXXXXX X XXXXXXX X X 
+X         X X           X   X       X X X     X   X X       X X 
+XXXXXXXXXXX XXXXXXXXXXX X XXX XXXXXXX X XXXXX X XXX XXXXXXXXX X 
+X         X     X     X X X       X   X     X X     X         X 
+X XXXXXXX XXXXX X XXX XXX XXXXXXX X XXXXX X X XXXXX X XXXXXXXXX 
+X X     X     X   X X   X       X X       X X       X         X 
+X X XXX XXXXX X XXX XXX XXXXXXX X XXXXXXXXX XXXXXXXXXXXXXXXXX X 
+X     X     X X   X   X X     X X       X   X X     X         X 
+XXXXXXXXXXX X XXX XXX X X X XXX X X XXXXX XXX X XXX X XXXXXXX X 
+X           X X       X   X X   X X       X   X X X X     X   X 
+X XXXXXXXXXXX XXXXXXXXXXXXX X XXX XXXXXXXXXXX X X X X XXX X XXX 
+X       X   X             X X X X   X         X X   X   X X X X 
+XXXXXXX XXX XXXXXXXXXXXXX X X X XXX X XXXXXXX X XXX XXXXX X X X 
+X       X         X     X X X X   X   X     X X   X       X   X 
+X XXXXXXX XXXXXXX X XXXXX X X XXX XXXXXXX X X XXX XXXXXXXXXXXXX 
+X   X         X X   X       X X           X X   X             X 
+X X X XXXXXXX X X XXX XXXXXXX X XXXXXXXXXXX X XXXXXXXXXXXXXXX X 
+X X X X     X X   X   X X     X   X   X     X X               X 
+X X XXX XXX X XXXXX XXX X XXXXX X X X XXXXXXX X XXXXXXXXXXXXX X 
+X X   X   X X   X       X   X   X   X         X X         X   X 
+XXXXX XXX X XXX X XXXXXXXXX XXXXXXX XXXXXXXXXXX XXXXX XXXXX XXX 
+X     X   X   X   X       X       X       X   X     X       X X 
+X XXXXX XXXXX XXXXX XXXXX XXXXXXX XXXXXXXXX X XXXXX XXXXXXX X X 
+X           X     X X   X   X   X           X   X   X     X   X 
+X XXXXXXXXX XXXXX X XXX X XXX X XXXXXXXXXXXXXXX X XXX XXX XXX X 
+X X     X       X X     X     X     X         X X       X   X X 
+XXX XXX XXXXXXXXX XXXXX XXXXXXXXX X XXXXXXX XXX X XXXXXXXXX X X 
+X   X     X   X   X   X X       X X         X   X X         X X 
+X XXXXXXX X X X X XXX X XXXXXXX X XXXXXXXXX X XXXXX XXXXXXXXX X 
+X       X   X   X X   X         X   X X   X X X     X       X X 
+X XXXXX XXXXXXXXX X XXXXXXXXXXX XXX X X X X X X XXXXX XXXXX X X 
+X X     X           X         X X X X   X   X X   X   X     X X 
+X X XXXXXXXXXXXXXXXXX XXX XXXXX X X XXXXXXXXX XXX X XXXXXXXXX X 
+X X                     X         X               X           X 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXOX 
